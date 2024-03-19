@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(41, 38, 38);
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.image div{
+
+    flex-basis: 25%;
+}
